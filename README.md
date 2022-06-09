@@ -1,4 +1,4 @@
-# Validacao lado cliente
+# Validação lado cliente
 Obtendo dados de um formulário, assuntos abordados nesta atividade: Label, input (value), textarea, select, radio button, check box, outros métodos de strings, trim, toUpperCase, toLowerCase, concat, replace
 # Requisitos da atividade
 Crie um formulário com dois inputs de texto, um para nome e outro para sobrenome, e um botão submit.
